@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD candidate at the University of Chicago.
+
 <!--
 **BenjaRoh/BenjaRoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
