@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi
 
-I am a PhD candidate at the University of Chicago.
+I am a PhD candidate at the University of Chicago. I am a political and historical sociologist who uses quantitative and computational methods to study elite political action.
 
 <!--
 **BenjaRoh/BenjaRoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
