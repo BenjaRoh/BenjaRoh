@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a PhD candidate at the University of Chicago. I am a political and historical sociologist who uses quantitative and computational methods to study elite political action.
+I am a postdoctoral researcher in the Department of Sociology at the University of Mannheim. I am a political and historical sociologist who uses quantitative and computational methods to study elite political action.
 
 For more information about my work, take a look at my [personal website](https://benjaminrohr.com).
 
